@@ -1,5 +1,5 @@
 # Types of SQL Injection
-- In-band SQLi (Classic SQLi)
+- {In-band SQLi (Classic SQLi)}(https://github.com/saidedev/sqli-injection/tree/main/In-band%20SQLi%20(Classic%20SQLi))
   - Error-based SQLi
   - Union-based SQLi
 - Inferential SQLi (Blind SQLi)
