@@ -1,7 +1,7 @@
 # Types of SQL Injection
 - In-band SQLi (Classic SQLi)
-- Error-based SQLi
-- Union-based SQLi
+  - Error-based SQLi
+  - Union-based SQLi
 - Inferential SQLi (Blind SQLi)
 - Boolean-based (content-based) Blind SQLi
 - Time-based Blind SQLi
